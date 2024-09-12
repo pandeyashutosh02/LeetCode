@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pandeyashutosh02/LeetCode/tree/master/0011-container-with-most-water) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pandeyashutosh02/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pandeyashutosh02/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
