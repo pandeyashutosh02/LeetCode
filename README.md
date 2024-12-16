@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pandeyashutosh02/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pandeyashutosh02/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
