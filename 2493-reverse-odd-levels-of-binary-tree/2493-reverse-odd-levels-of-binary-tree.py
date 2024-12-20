@@ -15,10 +15,10 @@ class Solution(object):
             return root
 
         q=[root]
-        lev = 0
+        lev=0
         while q:
-            n = len(q)
-            temp = []
+            n=len(q)
+            temp=[]
             
             for i in range(n):
                 node = q.pop(0) 
@@ -32,10 +32,10 @@ class Solution(object):
                  i,j = 0,len(temp)-1
                  while i < j:
                     temp[i].val, temp[j].val = temp[j].val, temp[i].val
-                    i += 1
-                    j -= 1
+                    i+=1
+                    j-=1
             
-            lev += 1
+            lev+=1
 
         return root
             
