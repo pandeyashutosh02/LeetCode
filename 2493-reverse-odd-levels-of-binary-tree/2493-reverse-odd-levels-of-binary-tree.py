@@ -14,14 +14,14 @@ class Solution(object):
         if not root:
             return root
 
-        q=deque([root])
+        q=[root]
         lev = 0
         while q:
             n = len(q)
             temp = []
             
             for i in range(n):
-                node=q.popleft() 
+                node = q.pop(0) 
                 temp.append(node)
                 if node.left:
                     q.append(node.left)
