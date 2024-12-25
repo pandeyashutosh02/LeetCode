@@ -26,7 +26,10 @@ class Solution(object):
                 if node.right:
                     q.append(node.right)
 
-            lvl_nodes.sort()
-            res.append(lvl_nodes[-1])
+            maxx=-10**100
+            for i in range(len(lvl_nodes)):
+                if maxx < lvl_nodes[i]:
+                    maxx=lvl_nodes[i]
+            res.append(maxx)
             
         return res
