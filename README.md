@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pandeyashutosh02/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pandeyashutosh02/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pandeyashutosh02/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
