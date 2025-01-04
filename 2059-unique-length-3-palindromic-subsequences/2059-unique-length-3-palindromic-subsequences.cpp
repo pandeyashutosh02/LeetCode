@@ -17,7 +17,6 @@ public:
             set<char> uniq;
             char ch = x.first;
             int st = x.second.first, end = x.second.second;
-            if(st==end || end-st<2)continue;
             for(int j=st+1;j<end;j++)uniq.insert(s[j]);
             res += uniq.size();
         }
