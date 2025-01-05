@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pandeyashutosh02/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pandeyashutosh02/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2465-shifting-letters-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pandeyashutosh02/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Simulation
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2232-adding-spaces-to-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pandeyashutosh02/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyashutosh02/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
