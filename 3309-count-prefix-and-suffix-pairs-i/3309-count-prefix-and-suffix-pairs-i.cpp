@@ -2,22 +2,11 @@ class Solution {
 public:
     int ans=0;
     void check(string s1, string s2) {
-        string pref="", suf="";
-        set<string> st, st2;
-        for(auto x : s2) {
-            pref += x;
-            st.insert(pref);
-        }
-        reverse(s2.begin(), s2.end());
-        for(auto y : s2) {
-            suf += y;
-            st2.insert(suf);
-        }
-        bool flag=false;
-        if(st.find(s1) != st.end())flag=true;
-        reverse(s1.begin(), s1.end());
-        if(st2.find(s1) == st2.end())flag=false;
-        if(flag==true)ans++;
+        if(s1.size() > s2.size())return;
+        bool pref = (s2.substr(0, s1.size()) == s1);
+        bool suf = (s2.substr(s2.size()-s1.size())==s1);
+        
+        if(pref and suf)ans++;
     }
     int countPrefixSuffixPairs(vector<string>& words) {
         for(int i=0; i<words.size(); i++) {
