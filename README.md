@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pandeyashutosh02/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pandeyashutosh02/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pandeyashutosh02/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyashutosh02/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pandeyashutosh02/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0952-word-subsets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyashutosh02/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pandeyashutosh02/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
