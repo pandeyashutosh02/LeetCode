@@ -13,4 +13,4 @@ class Solution(object):
             map[val]+=1
         
 
-        return (n*(n-1))//2 - count_good
+        return (n*(n-1))/2 - count_good
