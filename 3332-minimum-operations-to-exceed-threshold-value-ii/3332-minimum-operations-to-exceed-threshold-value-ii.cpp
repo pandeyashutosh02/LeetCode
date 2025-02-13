@@ -6,7 +6,7 @@ public:
 
         int res=0;
         while(pq.top() < k) {
-            if (pq.size() < 2) return -1;
+            if (pq.size() < 2) break;
             long long x=pq.top();
             pq.pop();
             long long y=pq.top();
