@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pandeyashutosh02/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3194-find-words-containing-character](https://github.com/pandeyashutosh02/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/pandeyashutosh02/LeetCode/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pandeyashutosh02/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyashutosh02/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3194-find-words-containing-character](https://github.com/pandeyashutosh02/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/pandeyashutosh02/LeetCode/tree/master/3330-modify-the-matrix) |
