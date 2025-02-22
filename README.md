@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pandeyashutosh02/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0952-word-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pandeyashutosh02/LeetCode/tree/master/0011-container-with-most-water) |
 | [0541-reverse-string-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0567-permutation-in-string) |
+| [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pandeyashutosh02/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyashutosh02/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Trie
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/pandeyashutosh02/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
