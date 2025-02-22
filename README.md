@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pandeyashutosh02/LeetCode/tree/master/0054-spiral-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pandeyashutosh02/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pandeyashutosh02/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pandeyashutosh02/LeetCode/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/pandeyashutosh02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pandeyashutosh02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0268-missing-number) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pandeyashutosh02/LeetCode/tree/master/0054-spiral-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/pandeyashutosh02/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/pandeyashutosh02/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/pandeyashutosh02/LeetCode/tree/master/2145-grid-game) |
