@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pandeyashutosh02/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pandeyashutosh02/LeetCode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/pandeyashutosh02/LeetCode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyashutosh02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/pandeyashutosh02/LeetCode/tree/master/0200-number-of-islands) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -387,5 +389,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
