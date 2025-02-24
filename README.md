@@ -132,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pandeyashutosh02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeyashutosh02/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/pandeyashutosh02/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pandeyashutosh02/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandeyashutosh02/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
