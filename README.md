@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pandeyashutosh02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0541-reverse-string-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pandeyashutosh02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pandeyashutosh02/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
