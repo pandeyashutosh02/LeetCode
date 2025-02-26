@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pandeyashutosh02/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pandeyashutosh02/LeetCode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/pandeyashutosh02/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/pandeyashutosh02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyashutosh02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pandeyashutosh02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0268-missing-number) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/pandeyashutosh02/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/pandeyashutosh02/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/0800-letter-case-permutation) |
