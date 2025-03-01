@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pandeyashutosh02/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pandeyashutosh02/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/pandeyashutosh02/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/pandeyashutosh02/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pandeyashutosh02/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pandeyashutosh02/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String Matching
