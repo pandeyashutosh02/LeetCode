@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyashutosh02/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pandeyashutosh02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0541-reverse-string-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pandeyashutosh02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyashutosh02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pandeyashutosh02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/pandeyashutosh02/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/pandeyashutosh02/LeetCode/tree/master/0077-combinations) |
