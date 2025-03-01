@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pandeyashutosh02/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pandeyashutosh02/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/pandeyashutosh02/LeetCode/tree/master/3447-clear-digits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pandeyashutosh02/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyashutosh02/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/pandeyashutosh02/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pandeyashutosh02/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pandeyashutosh02/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/pandeyashutosh02/LeetCode/tree/master/2509-minimize-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyashutosh02/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pandeyashutosh02/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
 |  |
 | ------- |
