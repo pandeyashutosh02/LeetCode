@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pandeyashutosh02/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pandeyashutosh02/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/pandeyashutosh02/LeetCode/tree/master/3447-clear-digits) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pandeyashutosh02/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pandeyashutosh02/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pandeyashutosh02/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyashutosh02/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/pandeyashutosh02/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1876-map-of-highest-peak](https://github.com/pandeyashutosh02/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/pandeyashutosh02/LeetCode/tree/master/2145-grid-game) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pandeyashutosh02/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyashutosh02/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3330-modify-the-matrix](https://github.com/pandeyashutosh02/LeetCode/tree/master/3330-modify-the-matrix) |
