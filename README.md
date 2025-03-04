@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pandeyashutosh02/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pandeyashutosh02/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyashutosh02/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
