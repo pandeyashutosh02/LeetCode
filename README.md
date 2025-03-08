@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pandeyashutosh02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pandeyashutosh02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/pandeyashutosh02/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/pandeyashutosh02/LeetCode/tree/master/0686-repeated-string-match) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pandeyashutosh02/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyashutosh02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pandeyashutosh02/LeetCode/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/pandeyashutosh02/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyashutosh02/LeetCode/tree/master/1063-best-sightseeing-pair) |
