@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/pandeyashutosh02/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pandeyashutosh02/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/pandeyashutosh02/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyashutosh02/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/pandeyashutosh02/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/pandeyashutosh02/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pandeyashutosh02/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
