@@ -1,20 +1,20 @@
 class Solution {
 public:
     vector<vector<int>> res;
-    void func(int i, vector<int> &temp, vector<int> &nums) {
-        if(i>=nums.size()) {
+    void func(int ind, vector<int> &nums, vector<int> &temp) {
+        if(ind>=nums.size()) {
             res.push_back(temp);
             return;
         }
 
-        func(i+1,temp,nums);
-        temp.push_back(nums[i]);
-        func(i+1,temp,nums);
+        temp.push_back(nums[ind]);
+        func(ind+1,nums,temp);
         temp.pop_back();
+        func(ind+1,nums,temp);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<int> temp;
-        func(0,temp,nums);
+        func(0,nums,temp);
         return res;
     }
 };
