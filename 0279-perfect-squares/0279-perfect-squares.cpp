@@ -5,9 +5,10 @@ public:
         if(dp[n]>0)return dp[n];
         int minn=n;
         for(int i=1; i*i<=n; i++) {
-            minn = min(minn, func(n-(i*i), dp));
+            int cnt = 1 + func(n-(i*i), dp);
+            minn = min(minn, cnt);
         }
-        return dp[n] = minn+1;
+        return dp[n] = minn;
     }
     int numSquares(int n) {
         vector<int> dp(n+1, 0);
