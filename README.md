@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3639-zero-array-transformation-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Linked List
 |  |
 | ------- |
