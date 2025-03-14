@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyashutosh02/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1306-minimum-absolute-difference](https://github.com/pandeyashutosh02/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/pandeyashutosh02/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/pandeyashutosh02/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/pandeyashutosh02/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pandeyashutosh02/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyashutosh02/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pandeyashutosh02/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/pandeyashutosh02/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
