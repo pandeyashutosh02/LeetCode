@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1031-add-to-array-form-of-integer](https://github.com/pandeyashutosh02/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/pandeyashutosh02/LeetCode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyashutosh02/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1306-minimum-absolute-difference](https://github.com/pandeyashutosh02/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/pandeyashutosh02/LeetCode/tree/master/0279-perfect-squares) |
+| [1031-add-to-array-form-of-integer](https://github.com/pandeyashutosh02/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pandeyashutosh02/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pandeyashutosh02/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
