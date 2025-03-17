@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1212-sequential-digits](https://github.com/pandeyashutosh02/LeetCode/tree/master/1212-sequential-digits) |
 ## Backtracking
 |  |
 | ------- |
