@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pandeyashutosh02/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pandeyashutosh02/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyashutosh02/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
