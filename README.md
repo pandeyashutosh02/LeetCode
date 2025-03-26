@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3809-properties-graph](https://github.com/pandeyashutosh02/LeetCode/tree/master/3809-properties-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3809-properties-graph](https://github.com/pandeyashutosh02/LeetCode/tree/master/3809-properties-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3809-properties-graph](https://github.com/pandeyashutosh02/LeetCode/tree/master/3809-properties-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyashutosh02/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pandeyashutosh02/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3809-properties-graph](https://github.com/pandeyashutosh02/LeetCode/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -533,12 +537,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/pandeyashutosh02/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3809-properties-graph](https://github.com/pandeyashutosh02/LeetCode/tree/master/3809-properties-graph) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pandeyashutosh02/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/pandeyashutosh02/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/pandeyashutosh02/LeetCode/tree/master/1558-course-schedule-iv) |
+| [3809-properties-graph](https://github.com/pandeyashutosh02/LeetCode/tree/master/3809-properties-graph) |
 ## Topological Sort
 |  |
 | ------- |
