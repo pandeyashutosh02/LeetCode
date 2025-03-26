@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2122-count-special-quadruplets](https://github.com/pandeyashutosh02/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2145-grid-game](https://github.com/pandeyashutosh02/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2232-adding-spaces-to-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyashutosh02/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/pandeyashutosh02/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyashutosh02/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pandeyashutosh02/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pandeyashutosh02/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pandeyashutosh02/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyashutosh02/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pandeyashutosh02/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyashutosh02/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/pandeyashutosh02/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1876-map-of-highest-peak](https://github.com/pandeyashutosh02/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/pandeyashutosh02/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pandeyashutosh02/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyashutosh02/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
