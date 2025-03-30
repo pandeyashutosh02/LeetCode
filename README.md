@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyashutosh02/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/pandeyashutosh02/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pandeyashutosh02/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/pandeyashutosh02/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyashutosh02/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/pandeyashutosh02/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/0800-letter-case-permutation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/pandeyashutosh02/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
 | ------- |
