@@ -6,10 +6,10 @@ public:
     }
     vector<int> countPoints(vector<vector<int>>& points, vector<vector<int>>& queries) {
         vector<int> ans;
-        for(int i=0; i<queries.size(); i++) {
+        for(auto i : queries) {
             int cnt=0;
-            for(int j=0; j<points.size(); j++) {
-                if(isInside(queries[i][0], queries[i][1], points[j][0], points[j][1], queries[i][2]))cnt++;
+            for(auto j : points) {
+                if(isInside(i[0], i[1], j[0], j[1], i[2]))cnt++;
             }
             ans.push_back(cnt);
         }
