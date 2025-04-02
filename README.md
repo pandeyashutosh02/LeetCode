@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/pandeyashutosh02/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/pandeyashutosh02/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3188-find-champion-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/pandeyashutosh02/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyashutosh02/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
