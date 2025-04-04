@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2122-count-special-quadruplets](https://github.com/pandeyashutosh02/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2145-grid-game](https://github.com/pandeyashutosh02/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2232-adding-spaces-to-a-string](https://github.com/pandeyashutosh02/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
