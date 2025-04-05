@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pandeyashutosh02/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/pandeyashutosh02/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/pandeyashutosh02/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pandeyashutosh02/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pandeyashutosh02/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2122-count-special-quadruplets](https://github.com/pandeyashutosh02/LeetCode/tree/master/2122-count-special-quadruplets) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pandeyashutosh02/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyashutosh02/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pandeyashutosh02/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/pandeyashutosh02/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/pandeyashutosh02/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pandeyashutosh02/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/pandeyashutosh02/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pandeyashutosh02/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pandeyashutosh02/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyashutosh02/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/pandeyashutosh02/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1212-sequential-digits](https://github.com/pandeyashutosh02/LeetCode/tree/master/1212-sequential-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pandeyashutosh02/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/pandeyashutosh02/LeetCode/tree/master/2122-count-special-quadruplets) |
 ## Backtracking
 |  |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/pandeyashutosh02/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pandeyashutosh02/LeetCode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/pandeyashutosh02/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pandeyashutosh02/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/pandeyashutosh02/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
@@ -608,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/pandeyashutosh02/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pandeyashutosh02/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
