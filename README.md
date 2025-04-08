@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pandeyashutosh02/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pandeyashutosh02/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3809-properties-graph](https://github.com/pandeyashutosh02/LeetCode/tree/master/3809-properties-graph) |
 ## Binary Search
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pandeyashutosh02/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pandeyashutosh02/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pandeyashutosh02/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pandeyashutosh02/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3809-properties-graph](https://github.com/pandeyashutosh02/LeetCode/tree/master/3809-properties-graph) |
