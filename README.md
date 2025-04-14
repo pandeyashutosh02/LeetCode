@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandeyashutosh02/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-subrectangle-queries](https://github.com/pandeyashutosh02/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1656-count-good-triplets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pandeyashutosh02/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1830-count-good-meals](https://github.com/pandeyashutosh02/LeetCode/tree/master/1830-count-good-meals) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pandeyashutosh02/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/pandeyashutosh02/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1212-sequential-digits](https://github.com/pandeyashutosh02/LeetCode/tree/master/1212-sequential-digits) |
+| [1656-count-good-triplets](https://github.com/pandeyashutosh02/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pandeyashutosh02/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/pandeyashutosh02/LeetCode/tree/master/2122-count-special-quadruplets) |
 ## Backtracking
